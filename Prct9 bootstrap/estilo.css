@@ -1,0 +1,46 @@
+.contenedor{
+    background-color: antiquewhite;
+}
+
+/* Practica 2*/
+.e2-1 .col1{
+    background-color: rgb(166, 125, 167);
+}
+.e2-1 .col2{
+    background-color: rgb(250, 231, 216);
+}
+.e2-1 .col3{
+    background-color: rgb(225, 177, 176);
+}
+
+.e2-1 .row{
+    padding: 3px;
+    background-color: white;
+}
+
+/* Practica 2, ej 2 y Practica 3*/
+.row{
+    padding: 3px;
+    background-color: white;
+}
+
+.colH{
+    background-color: #A67DA7;
+}
+
+.colSB{
+    background-color: #F5DAD1;
+}
+
+.colT{
+    background-color: #68CC83;
+}
+
+.colB{
+    background-color: #9D8D98;
+}
+
+.colF{
+    background-color: #7C9ECB;
+}
+
